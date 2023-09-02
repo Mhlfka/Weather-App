@@ -92,3 +92,16 @@ body{
     margin-top: 14px;
     display: none;
 }
+h3{
+    margin-top: 50%;
+    text-align: center;
+    color:aliceblue;
+}
+.copyrite{
+    text-align: center;
+    color: aliceblue;
+}
+.dev{
+    text-align: center;
+    color: aliceblue;
+}
